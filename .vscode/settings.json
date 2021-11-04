@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdatomic.h": "c",
+        "syscall.h": "c",
+        "types.h": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "library.h": "c"
+    }
+}
